@@ -1,6 +1,8 @@
 * {
-   background-color:  blue;
+   background-color:  rgb(47, 175, 124);
 }
 .navegando {
-    background-color: red;
-}
+    inline;
+    background-color: red
+        rgba(189, 15, 15, 0.733);
+    };
