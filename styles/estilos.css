@@ -1,7 +1,21 @@
 * {
-   background-color:  rgb(20, 159, 103);
+   background-color:  rgb(172, 172, 177);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .navegando {
-       background-color: red
-        rgba(189, 15, 15, 0.733);
+    
+       background-color: rgb(51, 154, 119);
+       display: inline;
+       padding: 10px;
+       text-align: center;
+       border-radius: 40%;
+        
+    }
+.hola {
+    font-size: 100px;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 50px outset rgb(237, 237, 237);
+        
     }
